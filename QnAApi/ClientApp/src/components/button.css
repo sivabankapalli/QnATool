@@ -1,0 +1,64 @@
+.buttonAdd {
+    background: #234;
+    border-radius: 2px;
+    color: white;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: #234;
+    align-content: center
+  }
+
+  .buttonTrain {
+    background: rgba(92, 50, 2, 0.993);
+    border-radius: 2px;
+    color: white;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: #234;
+    align-content: center
+  }
+
+  .buttonPublish {
+    background: rgb(33, 70, 1);
+    border-radius: 2px;
+    color: white;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: #234;
+    align-content: center
+  }
+
+  .buttonName {
+    background: rgb(248, 183, 3);
+    border-radius: 2px;    
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: #234;
+    align-content: center
+  }
+
+
+
+#width
+{
+    width:70%;
+}
+#widthmain {
+    width: 60%;
+}
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:hover {background-color: #ddd;}
+  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
